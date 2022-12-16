@@ -1,2 +1,3 @@
-# FermiPairing.jl
+## FermiPairing.jl
+
 Quantum methods for fermion pairs.

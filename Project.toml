@@ -1,0 +1,10 @@
+name = "FermiPairing"
+uuid = "16aa3d89-24f0-48e5-8a54-6c411252a8e0"
+authors = ["Rishab Dutta <Rishab.Dutta@rice.edu>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa" 
+Arpack = "7d9fca2a-8960-54d3-9f78-7d1dccf2cb97"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb" 

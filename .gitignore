@@ -1,0 +1,16 @@
+# Tex 
+*.aux
+*.fdb_latexmk
+*.log
+*.fls
+*.out
+*.nav
+*.toc
+*.fmt
+*.snm
+*.synctex.gz
+*.zip
+
+# Folders
+**/experiments
+
