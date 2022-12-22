@@ -10,6 +10,5 @@ include("sdci.jl")
 include("agputils.jl")
 include("agp.jl")
 include("lcagp.jl")
-include("apig.jl")
 
 end # module
