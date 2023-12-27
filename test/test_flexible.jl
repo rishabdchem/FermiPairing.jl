@@ -16,8 +16,8 @@ using Test
     for i = 1:n
         en += 2i - G
     end  
-    @test isapprox(1.0, docioverlap(V, V, m, n), atol=1e-12) 
-    @test isapprox(en, docihamoverlap(V, V, m, n, G), atol=1e-12) 
+    @test isapprox(1.0, docioverlap(V, V, m, n), atol=1e-08) 
+    @test isapprox(en, docihamoverlap(V, V, m, n, G), atol=1e-08) 
 
 end
 

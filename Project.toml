@@ -1,6 +1,6 @@
 name = "FermiPairing"
 uuid = "16aa3d89-24f0-48e5-8a54-6c411252a8e0"
-authors = ["Rishab Dutta <Rishab.Dutta@rice.edu>"]
+authors = ["Rishab Dutta <Rishab.Dutta@yale.edu>"]
 version = "0.1.0"
 
 [deps]
